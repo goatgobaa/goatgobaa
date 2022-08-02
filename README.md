@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @goatgobaa, or Neil Burns-Morales
+- 👀 I’m interested in Cybersecurity and Infosec.
+- 🌱 I’m currently learning as much as I can about Python, and cyber security
+- 📫 How to reach me: hit me up on linked in at https://www.linkedin.com/in/neilburnsmorales/, or via this platform!
